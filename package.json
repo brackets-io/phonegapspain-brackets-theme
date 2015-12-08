@@ -1,0 +1,29 @@
+{
+    "title": "PhoneGap Spain Theme",
+    "name": "phonegapspain",
+    "author": "José Jesús <jose.perez@ceroyuno.es>",
+    "description": "PhoneGap Spain Theme for Brackets",
+    "version": "0.0.1",
+    "license": "MIT",
+    "homepage": "https://github.com/JoseJPR/phonegapspain-brackets-theme",
+    "theme": {
+        "file": "main.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": [
+        "themes",
+        "brackets",
+        "custom",
+        "highlight",
+        "skins"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/JoseJPR/phonegapspain-brackets-theme.git"
+    },
+    "engines": {
+        "brackets": ">=1.0.0"
+    },
+    "categories": "visual"
+}

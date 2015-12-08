@@ -1,0 +1,5 @@
+# CHANGELOG PHONEGAP SPAIN
+
+v 0.0.1
+
+* Created :)
